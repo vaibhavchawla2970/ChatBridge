@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🌐 ChatBridge
-<img src="https://i.postimg.cc/j5dD7vfp/icon128.png" alt="ChatBridge Logo" width="100"> 
+<img src="https://i.postimg.cc/j5dD7vfp/icon128.png" alt="ChatBridge Logo" width="60"> **ChatBridge**
+
 **Seamlessly transfer your AI conversations between platforms**
 
 Extract your current AI chat and instantly transfer it to another AI or save it locally. Zero network calls. Complete privacy.
@@ -10,8 +10,6 @@ Extract your current AI chat and instantly transfer it to another AI or save it 
 [![Version](https://img.shields.io/badge/Version-1.5.0-green?style=for-the-badge)](https://github.com)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-orange?style=for-the-badge)](https://developer.chrome.com/docs/extensions/mv3)
-
-<img src="https://i.postimg.cc/j5dD7vfp/icon128.png" alt="ChatBridge Logo" width="100">
 
 </div>
 
@@ -159,6 +157,14 @@ npm install
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 Acknowledgments
+
+- Built with ❤️ using AI assistance
+- Icons and branding by Vaibhav Chawla
+- Thanks to all the AI platforms that make this tool useful
 
 ---
 
