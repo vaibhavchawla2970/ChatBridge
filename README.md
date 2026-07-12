@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/50sjfv65/topicon.png" alt="ChatBridge Logo" width="300">
+<img src="https://i.postimg.cc/j5dD7vfp/icon128.png" alt="ChatBridge Logo" width="200">
+
+# ChatBridge
 
 **Seamlessly transfer your AI conversations between platforms**
 
