@@ -15,36 +15,36 @@ Extract your current AI chat and instantly transfer it to another AI or save it 
 
 ---
 
-## ✨ Features
+## Features
 
-- **🚀 Instant Transfer** — Move conversations from one AI to another in one click
-- **💾 Save Locally** — Export chats as beautifully formatted HTML files
-- **🔒 100% Private** — All processing happens locally. Zero network calls. Your data never leaves your browser
-- **🎨 Smart Detection** — Automatically detects which AI platform you're using
-- **➕ Custom AI Support** — Add any AI chat platform, even if it's not built-in
-- **🌙 Dark Mode** — Full support for light and dark themes
-- **⚡ Lightweight** — Minimal footprint, maximum performance
+- **Instant Transfer** — Move conversations from one AI to another in one click
+- **Save Locally** — Export chats as beautifully formatted HTML files
+- **100% Private** — All processing happens locally. Zero network calls. Your data never leaves your browser
+- **Smart Detection** — Automatically detects which AI platform you're using
+- **Custom AI Support** — Add any AI chat platform, even if it's not built-in
+- **Dark Mode** — Full support for light and dark themes
+- **Lightweight** — Minimal footprint, maximum performance
 
 ---
 
-## 🎯 Supported Platforms
+## Supported Platforms
 
 | Platform | Transfer To | Save as HTML |
 |----------|:-----------:|:------------:|
-| ChatGPT | ✅ | ✅ |
-| Claude | ✅ | ✅ |
-| Gemini | ✅ | ✅ |
-| Grok | ✅ | ✅ |
-| Z.ai | ✅ | ✅ |
-| DeepSeek | ✅ | ✅ |
-| Copilot | ✅ | ✅ |
-| Perplexity | ✅ | ✅ |
-| Mistral | ✅ | ✅ |
-| Custom URLs | ✅ | ✅ |
+| ChatGPT | Yes | Yes |
+| Claude | Yes | Yes |
+| Gemini | Yes | Yes |
+| Grok | Yes | Yes |
+| Z.ai | Yes | Yes |
+| DeepSeek | Yes | Yes |
+| Copilot | Yes | Yes |
+| Perplexity | Yes | Yes |
+| Mistral | Yes | Yes |
+| Custom URLs | Yes | Yes |
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <div align="center">
 
@@ -64,31 +64,28 @@ Extract your current AI chat and instantly transfer it to another AI or save it 
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
-1. **Open** any supported AI chat platform
-2. **Click** the ChatBridge icon in your browser toolbar
-3. **Choose** your action:
+1. Open any supported AI chat platform
+2. Click the ChatBridge icon in your browser toolbar
+3. Choose your action:
    - **Save as HTML** — Downloads a beautifully formatted HTML file
    - **Transfer to another AI** — Opens the target AI and pastes your conversation
-4. **Continue** your conversation where you left off!
+4. Continue your conversation where you left off
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### From Source
 
 ```bash
-# Clone the repository
 git clone https://github.com/yourusername/ChatBridge.git
-
-# Open Chrome and navigate to chrome://extensions/
-
-# Enable "Developer mode" (top right toggle)
-
-# Click "Load unpacked" and select the ChatBridge folder
 ```
+
+1. Open Chrome and navigate to `chrome://extensions/`
+2. Enable "Developer mode" (top right toggle)
+3. Click "Load unpacked" and select the ChatBridge folder
 
 ### From Chrome Web Store
 
@@ -96,7 +93,7 @@ git clone https://github.com/yourusername/ChatBridge.git
 
 ---
 
-## 🔧 Adding Custom AI Platforms
+## Adding Custom AI Platforms
 
 ChatBridge lets you add any AI chat platform:
 
@@ -105,11 +102,11 @@ ChatBridge lets you add any AI chat platform:
 3. Enter the **Chat URL** (e.g., "https://character.ai")
 4. Click **Save AI**
 
-Your custom platform will now appear in the transfer options!
+Your custom platform will now appear in the transfer options.
 
 ---
 
-## 🛡️ Privacy & Security
+## Privacy and Security
 
 ChatBridge is built with privacy as a core principle:
 
@@ -120,7 +117,7 @@ ChatBridge is built with privacy as a core principle:
 
 ---
 
-## 🏗️ Technical Details
+## Technical Details
 
 - **Manifest Version:** 3
 - **Permissions:** Minimal (`activeTab`, `scripting`, `storage`, `tabs`, `downloads`)
@@ -129,41 +126,37 @@ ChatBridge is built with privacy as a core principle:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-Contributions are welcome! Here's how you can help:
+Contributions are welcome. Here's how you can help:
 
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
 ### Development Setup
 
 ```bash
-# Install dependencies
 npm install
-
-# Load extension in Chrome
-# 1. Go to chrome://extensions/
-# 2. Enable Developer mode
-# 3. Click "Load unpacked"
-# 4. Select the project folder
 ```
+
+1. Go to `chrome://extensions/`
+2. Enable Developer mode
+3. Click "Load unpacked"
+4. Select the project folder
 
 ---
 
-## 📝 License
+## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
 <div align="center">
 
-**Made by Vaibhav Chawla Using AI**
-
-If you find ChatBridge helpful, please give it a ⭐!
+Made by Vaibhav Chawla Using AI
 
 </div>
