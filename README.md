@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌐 ChatBridge
-
+<img src="https://i.postimg.cc/j5dD7vfp/icon128.png" alt="ChatBridge Logo" width="100"> 
 **Seamlessly transfer your AI conversations between platforms**
 
 Extract your current AI chat and instantly transfer it to another AI or save it locally. Zero network calls. Complete privacy.
