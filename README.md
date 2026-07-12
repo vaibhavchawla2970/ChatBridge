@@ -2,6 +2,8 @@
 
 <img src="https://i.postimg.cc/50sjfv65/topicon.png" alt="ChatBridge Logo" width="200">
 
+# ChatBridge
+
 **Seamlessly transfer your AI conversations between platforms**
 
 Extract your current AI chat and instantly transfer it to another AI or save it locally. Zero network calls. Complete privacy.
@@ -11,7 +13,31 @@ Extract your current AI chat and instantly transfer it to another AI or save it 
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-orange?style=for-the-badge)](https://developer.chrome.com/docs/extensions/mv3)
 
+**⭐ If you find this useful, please star the repo — it helps others discover it!**
+
 </div>
+
+---
+
+## 🚀 Install in 60 Seconds (No coding required)
+
+ChatBridge isn't on the Chrome Web Store *yet*, but installing it manually only takes a minute:
+
+1. **Download the extension**
+   - Click the green **`< > Code`** button at the top of this repo → **Download ZIP**
+   - Or grab [`chatbridge chrome.zip`](https://github.com/vaibhavchawla2970/ChatBridge/blob/main/chatbridge%20chrome.zip) directly
+2. **Unzip the file** anywhere on your computer (e.g. Desktop)
+3. Open Chrome and go to `chrome://extensions`
+4. Turn on **Developer mode** using the toggle in the top-right corner
+5. Click **Load unpacked** (top-left) and select the unzipped ChatBridge folder
+6. Pin ChatBridge to your toolbar (click the puzzle-piece icon → pin ChatBridge) so it's always one click away
+
+That's it — you're ready to transfer chats. ✅
+
+> 💡 **Note:** Chrome may show a "Developer mode extensions" warning bar. This is normal for any extension installed outside the Web Store and doesn't affect functionality.
+
+### From Chrome Web Store
+*Coming soon — star/watch the repo to get notified when it's live.*
 
 ---
 
@@ -31,16 +57,16 @@ Extract your current AI chat and instantly transfer it to another AI or save it 
 
 | Platform | Transfer To | Save as HTML |
 |----------|:-----------:|:------------:|
-| ChatGPT | Yes | Yes |
-| Claude | Yes | Yes |
-| Gemini | Yes | Yes |
-| Grok | Yes | Yes |
-| Z.ai | Yes | Yes |
-| DeepSeek | Yes | Yes |
-| Copilot | Yes | Yes |
-| Perplexity | Yes | Yes |
-| Mistral | Yes | Yes |
-| Custom URLs | Yes | Yes |
+| ChatGPT | ✅ | ✅ |
+| Claude | ✅ | ✅ |
+| Gemini | ✅ | ✅ |
+| Grok | ✅ | ✅ |
+| Z.ai | ✅ | ✅ |
+| DeepSeek | ✅ | ✅ |
+| Copilot | ✅ | ✅ |
+| Perplexity | ✅ | ✅ |
+| Mistral | ✅ | ✅ |
+| Custom URLs | ✅ | ✅ |
 
 ---
 
@@ -75,21 +101,16 @@ Extract your current AI chat and instantly transfer it to another AI or save it 
 
 ---
 
-## Installation
-
-### From Source
+## Installing From Source (for developers)
 
 ```bash
-git clone https://github.com/yourusername/ChatBridge.git
+git clone https://github.com/vaibhavchawla2970/ChatBridge.git
 ```
 
-1. Open Chrome and navigate to `chrome://extensions/`
-2. Enable "Developer mode" (top right toggle)
-3. Click "Load unpacked" and select the ChatBridge folder
-
-### From Chrome Web Store
-
-*Coming Soon*
+1. Go to `chrome://extensions/`
+2. Enable **Developer mode**
+3. Click **Load unpacked**
+4. Select the cloned `ChatBridge` folder
 
 ---
 
@@ -146,6 +167,19 @@ npm install
 2. Enable Developer mode
 3. Click "Load unpacked"
 4. Select the project folder
+
+---
+
+## FAQ
+
+**Is this safe to install without the Chrome Web Store?**
+Yes — ChatBridge is fully open source, so you (or anyone) can inspect every line of code before installing. It requests only the minimal permissions needed to function, and makes zero network calls.
+
+**Will Chrome disable the extension after I close my browser?**
+No, once loaded it stays installed. You may occasionally see a "Disable developer mode extensions" reminder — just ignore/dismiss it.
+
+**Does my data ever leave my browser?**
+No. All extraction and formatting happens locally on your device.
 
 ---
 
