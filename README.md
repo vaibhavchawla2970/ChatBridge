@@ -160,14 +160,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
-
-- Built with ❤️ using AI assistance
-- Icons and branding by Vaibhav Chawla
-- Thanks to all the AI platforms that make this tool useful
-
----
-
 <div align="center">
 
 **Made by Vaibhav Chawla Using AI**
