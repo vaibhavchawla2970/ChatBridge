@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/j5dD7vfp/icon128.png" alt="ChatBridge Logo" width="200">
+<img src="https://i.postimg.cc/j5dD7vfp/icon128.png" alt="ChatBridge Logo" width="100">
 
 # ChatBridge
 
