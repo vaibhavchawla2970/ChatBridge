@@ -2,7 +2,7 @@
 
 <img src="https://i.postimg.cc/j5dD7vfp/icon128.png" alt="ChatBridge Logo" width="100">
 
-# ChatBridge 🌉
+# ChatBridge
 
 **Seamlessly transfer your AI conversations between platforms**
 
