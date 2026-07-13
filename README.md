@@ -80,11 +80,12 @@ That's it — you're ready to transfer chats. ✅
 ### Chat Export Feature
 <img src="https://i.postimg.cc/tTXxzpKP/chat-export.png" alt="Chat Export" width="400">
 
+### Full Page View
+<img src="https://i.postimg.cc/LXH1V2cV/whole-page.png" alt="Full Page View" width="400">
+
 ### Exported Chat in ChatGPT
 <img src="https://i.postimg.cc/Y9pWxM53/showing-chat-export-in-chatgpt.png" alt="Chat Export in ChatGPT" width="400">
 
-### Full Page View
-<img src="https://i.postimg.cc/LXH1V2cV/whole-page.png" alt="Full Page View" width="400">
 
 </div>
 
